@@ -1,0 +1,36 @@
+Tomato
+Magnoliophyta
+Magnoliopsida
+Solanales
+Solanaceae
+Solanum
+Solanum lycopersicumy
+Cucumber
+Magnoliophyta
+Magnoliopsida
+Violales
+Cucurbitaceae
+Cucumis L.
+Cucumis sativus L.
+Coconut
+Magnoliophyta
+Liliopsida
+Arecidae
+Arecales
+Arecaceae
+Cocos
+Apple
+Magnoliophyta
+Magnoliopsida
+Rosales
+Rosaceae
+Malus
+Malus
+Pear
+Magnoliophyta
+Magnoliopsida
+Rosales
+Rosaceae
+Pyus L.
+Communis Linn.
+end

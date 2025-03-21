@@ -1,0 +1,56 @@
+Dog
+Chordata
+Mammalia
+Carnivora
+Canidae
+Canis
+Canis lupus
+60
+56
+27
+23
+Cat
+Chordata
+Mammalia
+Carnivora
+Felidae
+Felis
+Felis catus
+25
+23
+7
+5
+Horse
+Chordata
+Mammalia
+Perissodactyla
+Equidae
+Equus
+Equus Caballus
+180
+140
+908
+817
+Goat
+Chordata
+Mammalia
+Artiodactylia
+Bovidae
+Capra
+Capra hircus
+76
+70
+91
+85
+Cow
+Chordata
+Mammalia
+Artiodactyla
+Bovidae
+Bos
+Bos taurus
+180
+160
+1800
+1100
+end
